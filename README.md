@@ -3,7 +3,7 @@
 
 An interactive Geographic Information System for DKI Jakarta that enables visualization and analysis of spatial data.
 
-![Gambar Deskripsi](gis1.png)
+![Gambar Deskripsi](gis.png)
 
 
 ## Features
