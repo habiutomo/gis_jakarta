@@ -82,3 +82,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit for the web application framework
 - Folium for the interactive map capabilities
 - GeoPandas for the spatial data handling
+
+silahkan email habizinnia@gmail.com jika butuh repo ini
